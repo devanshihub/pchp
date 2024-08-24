@@ -1,3 +1,4 @@
+// merge two sorted arrays in a sorted manner
 import java.util.Scanner;
 
 class arr
