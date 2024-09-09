@@ -1,3 +1,6 @@
+//Input: arr[] = {10, 20, 10, 5, 15}
+//Output: prefixSum[] = {10, 30, 40, 45, 60}
+//Prefix Sum Array
 import java.util.Scanner;
 class main
 {
