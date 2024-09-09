@@ -1,5 +1,4 @@
 import java.util.*;
-// hello
 
 public class Main
 {
