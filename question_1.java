@@ -1,3 +1,4 @@
+// sum of digits of a number
 import java.util.Scanner;
 class Main
 {
